@@ -30,11 +30,13 @@ public class P295 {
             return this.arr.get((int)(arr.size()/2));
         }
     }
-
     /**
      * Your MedianFinder object will be instantiated and called as such:
      * MedianFinder obj = new MedianFinder();
      * obj.addNum(num);
      * double param_2 = obj.findMedian();
      */
+    public static void main(String[] args) {
+
+    }
 }
