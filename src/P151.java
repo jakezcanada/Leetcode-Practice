@@ -10,6 +10,6 @@ public class P151 {
         return String.join(" ", strings);
     }
     public static void main(String[] args) {
-        System.out.println(reverseWords("FUCK    FUCKKKK"));
+        System.out.println(reverseWords("test      test    "));
     }
 }
